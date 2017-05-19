@@ -46,6 +46,8 @@
 
 * [Контекст в React](https://www.youtube.com/watch?v=lxq938kqIss) [**EN**] – экспериментальный функционал, на который опираются многие популярные библиотеки (react-redux, react-intl).
 
+* [Компоненты высшего порядка](https://www.youtube.com/watch?v=LTunyI2Oyzw) [**EN**] – руководство по работе с вашими собственными компонентами высшего порядка.
+
 * [Основы производительности React-приложений](http://blog.csssr.ru/2016/12/07/react-perfomance/) [**RU**] – как правильно работать с `shouldComponentUpdate`.
 
 * [Десять мини-паттернов в React](https://hackernoon.com/10-react-mini-patterns-c1da92f068c5) [**EN**]: разбор лучших практик при работе с компонентами.
@@ -73,7 +75,10 @@
 
 ## Роутинг
 * Напиши свой React Router, или [как работает четвёртая версия React Router изнутри](https://tylermcginnis.com/build-your-own-react-router-v4/) [**EN**] – лучший способ понять принцип работы React Router.
+
 * [Изоморфные приложения на React с React Router 4 версии](https://ebaytech.berlin/universal-web-apps-with-react-router-4-15002bb30ccb) [**EN**] – как организовать server side рендеринг приложения.
+
+* React Router не всегда идеальное решение для организации роутинга. Facebook, например, вообще не использует его в своих проектах. [Обзор альтернатив React Router](https://auth0.com/blog/react-router-alternatives/).
 
 ## Тестирование
 * [Тестирование компонентов в React](https://medium.freecodecamp.com/the-right-way-to-test-react-components-548a4736ab22) [**EN**]: как сделать это правильно и что нужно тестировать в первую очередь.
@@ -88,7 +93,6 @@
 ## От и до: уроки по созданию полноценных приложений
 * Создаём медиа библиотека с помощью React, Redux и Redux-saga [**EN**]:
   * [Часть 1](https://scotch.io/tutorials/build-a-media-library-with-react-redux-and-redux-saga-part-1)
-
   * [Часть 2](https://scotch.io/tutorials/build-a-media-library-with-react-redux-and-redux-saga-part-2)
 
 ## Разное
