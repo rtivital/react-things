@@ -85,6 +85,12 @@
 
 * [Code Splitting](http://mxstbr.blog/2016/01/react-apps-with-pages/) в React приложении – разделение большого бандла на меньшие части для более быстрой загрузки приложения.
 
+## От и до: уроки по созданию полноценных приложений
+* Создаём медиа библиотека с помощью React, Redux и Redux-saga [**EN**]:
+  * [Часть 1](https://scotch.io/tutorials/build-a-media-library-with-react-redux-and-redux-saga-part-1)
+
+  * [Часть 2](https://scotch.io/tutorials/build-a-media-library-with-react-redux-and-redux-saga-part-2)
+
 ## Разное
 * [Подборка 15 вопросов с собеседования](http://www.kanby.ru/voprosyi-pro-react-na-sobesedovanii.html) [**RU**] для React-разработчика.
 
