@@ -42,6 +42,14 @@
 ## Ныряем в React с головой
 * [React Lifecycle Methods – how and when to use them](https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1) [**EN**] – всё про жизненный цикл компонентов в React: подробно о том, как работает каждый метод + разбор ситуаций, в которых может понадобиться каждый хук.
 
+* [PureComponent в React](https://habrahabr.ru/company/redmadrobot/blog/318222/) [**RU**] – как и зачем применять, разбор отличий от Component.
+
+* [Контекст в React](https://www.youtube.com/watch?v=lxq938kqIss) [**EN**] – экспериментальный функционал, на который опираются многие популярные библиотки (react-redux, react-intl).
+
+* [Основы производительности React-приложений](http://blog.csssr.ru/2016/12/07/react-perfomance/) [**RU**] – как правильно работать с `shouldComponentUpdate`.
+
+* [Десять мини-паттернов в React](https://hackernoon.com/10-react-mini-patterns-c1da92f068c5) [**EN**]: разбор лучших практик при работе с компонентами.
+
 * Курс [Advanced React and Redux](https://www.udemy.com/react-redux-tutorial/) [**EN**] расскажет про основы тестирования React компонентов, работу с аутентификацией на стороне клиента и сервера и компоненты высшего порядка.
 
 ## Робкое знакомство с Redux
@@ -51,14 +59,33 @@
 
 * Статья [Лучшие практики при работе с Redux](https://medium.com/lexical-labs-engineering/redux-best-practices-64d59775802e) [**EN**] расскажет, как не совершить типичных ошибок: где и как организовать бизнес логику приложения, как правильно работать с асинхронными операциями, как создать архитектуру проекта на Redux и многое другое.
 
+* Подробное объяснение [принципов разделения презентационных компонентов и компонентов контейнеров](http://www.kanby.ru/prezentaczionnyij-komponent-i-kontejner-v-react.html) [**RU**] при работе с React и Redux.
+
+## Продвинутый Redux
+* [Пишем всю middleware](https://medium.com/@jihdeh/creating-custom-middleware-in-react-redux-961570459ecb) [**EN**].
+
+* [Асинхронный Redux](https://medium.com/@jtbennett/asynchronous-actions-in-redux-8412cf92a26f) [**EN**] – всё, что нужно знать про работу с асинхронными операциями.
+
 ## Архитектура приложения
-* [Как правильно организовать архитектуру большого приложения на React и Redux](https://www.sitepoint.com/organize-large-react-application/) [**EN**]
+* [Как правильно организовать архитектуру большого приложения на React и Redux](https://www.sitepoint.com/organize-large-react-application/) [**EN**].
+
+* [Как избежать излишней сложности состояния приложения](https://habrahabr.ru/post/316070/) [**RU**] – руководство по правильной организации Redux-стора в больших приложениях.
 
 ## Роутинг
-* Напиши свой React Router, или [как работает четвёртая версия React Router изнутри](https://tylermcginnis.com/build-your-own-react-router-v4/) – лучший способ понять принцип работы React Router.
+* Напиши свой React Router, или [как работает четвёртая версия React Router изнутри](https://tylermcginnis.com/build-your-own-react-router-v4/) [**EN**] – лучший способ понять принцип работы React Router.
+* [Изоморфные приложения на React с React Router 4 версии](https://ebaytech.berlin/universal-web-apps-with-react-router-4-15002bb30ccb) [**EN**] – как организовать server side рендеринг приложения.
 
 ## Тестирование
-* [Лучшие практики тестирования React компонентов](https://medium.com/selleo/testing-react-components-best-practices-2f77ac302d12)
+* [Тестирование компонентов в React](https://medium.freecodecamp.com/the-right-way-to-test-react-components-548a4736ab22) [**EN**]: как сделать это правильно и что нужно тестировать в первую очередь.
+
+* [Лучшие практики тестирования React компонентов](https://medium.com/selleo/testing-react-components-best-practices-2f77ac302d12) [**EN**].
 
 ## Инструменты
+* [Собираем React приложение с помощью Webpack 2 и Babel](https://scotch.io/tutorials/setup-a-react-environment-using-webpack-and-babel) [**EN**] – руководство по настройке самых необходимых инструментов.
+
 * [Code Splitting](http://mxstbr.blog/2016/01/react-apps-with-pages/) в React приложении – разделение большого бандла на меньшие части для более быстрой загрузки приложения.
+
+## Разное
+* [Подборка 15 вопросов с собеседования](http://www.kanby.ru/voprosyi-pro-react-na-sobesedovanii.html) [**RU**] для React-разработчика.
+
+* [Многофакторная аутентификация и React](https://scotch.io/tutorials/multifactor-authentication-in-your-react-apps) [**EN**].
