@@ -1,6 +1,19 @@
 # React Things
 Коллекция материалов для изучения ES2015, React, Redux, Webpack, Babel и всего остального.
 
+Содержание:
+1. [ES2015: то, что действительно нужно](#es2015-то-что-действительно-нужно)
+2. [React: Основы основ]
+3. [Ныряем в React с головой]
+4. [Робкое знакомство с Redux]
+5. [Продвинутый Redux]
+6. [Роутинг]
+7. [Архитектура приложения]
+8. [От и до: уроки по созданию полноценных приложений]
+9. [Тестирование]
+10. [Инструменты]
+11. [Разное]
+
 
 ## ES2015: то, что действительно нужно
 Перед тем, как вы утоните с головой в пучине вод React самое полезное, что вы можете сделать – изучить некоторые возможности ES2015, которыми вы будете пользоваться постоянно.
@@ -104,17 +117,6 @@
 
 * [Как избежать излишней сложности состояния приложения](https://habrahabr.ru/post/316070/) [**RU**] – руководство по правильной организации Redux-стора в больших приложениях.
 
-
-## Тестирование
-* [Тестирование компонентов в React](https://medium.freecodecamp.com/the-right-way-to-test-react-components-548a4736ab22) [**EN**]: как сделать это правильно и что нужно тестировать в первую очередь.
-
-* [Лучшие практики тестирования React компонентов](https://medium.com/selleo/testing-react-components-best-practices-2f77ac302d12) [**EN**].
-
-* [Видео курс от egghead.io](https://egghead.io/lessons/javascript-test-javascript-with-jest?pl=testing-javascript-with-jest-a36c4074) про тестирование React приложения с Jest.
-
-* [Руководство по использованию TDD подхода при разработке React приложений](https://www.spencerdixon.com/blog/test-driven-react-tutorial.html)
-
-
 ## От и до: уроки по созданию полноценных приложений
 * [Создаём клон твиттера](https://scotch.io/tutorials/build-a-twitter-like-search-feed-with-react-js-and-appbase-io) на React с использованием appbase в качестве бэкэнда.
 
@@ -129,6 +131,16 @@
   * [Часть 1](https://habrahabr.ru/post/309958/)
   * [Часть 2](https://habrahabr.ru/post/310284/)
   * [Часть 3](https://habrahabr.ru/post/310952/)
+
+
+## Тестирование
+* [Тестирование компонентов в React](https://medium.freecodecamp.com/the-right-way-to-test-react-components-548a4736ab22) [**EN**]: как сделать это правильно и что нужно тестировать в первую очередь.
+
+* [Лучшие практики тестирования React компонентов](https://medium.com/selleo/testing-react-components-best-practices-2f77ac302d12) [**EN**].
+
+* [Видео курс от egghead.io](https://egghead.io/lessons/javascript-test-javascript-with-jest?pl=testing-javascript-with-jest-a36c4074) про тестирование React приложения с Jest.
+
+* [Руководство по использованию TDD подхода при разработке React приложений](https://www.spencerdixon.com/blog/test-driven-react-tutorial.html)
 
 
 ## Инструменты
