@@ -8,7 +8,8 @@
 * [Стрелочные функции](http://jsraccoon.ru/es6-arrow-functions) [**RU**] – `f => f` вместо `function (f) { return f; }` и как не потерять контекст выполнения функции без использования метода `bind`.
 * [Расширение литерала объекта](http://jsraccoon.ru/es6-object-literal) [**RU**] – сокращённые записи свойств и методов в объектах.
 * [Деструктуризация объектов и массивов](http://jsraccoon.ru/es6-destructuring) [**RU**] – сокращённая запись обращения к свойствам.
-* [Модульная система](https://learn.javascript.ru/modules) [**RU**] – основы использования нативных модулей 
+* [Модульная система](https://learn.javascript.ru/modules) [**RU**] – основы использования нативных модулей.
+* [Классы](https://learn.javascript.ru/es-class) [**RU**] – работа с прототипами и наследованием в новом стандарте.
 
 ## Основы основ
 * [Статья из официальной документации Thinking in React](https://facebook.github.io/react/docs/thinking-in-react.html) [**EN**] про идеологию библиотеки, поможет понять, основные идеи лежащие в основе React.
