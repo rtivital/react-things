@@ -32,6 +32,8 @@
 ## React: Основы основ
 * [Статья из официальной документации Thinking in React](https://facebook.github.io/react/docs/thinking-in-react.html) [**EN**] про идеологию библиотеки, поможет понять, основные идеи лежащие в основе React.
 
+* [Абсолютный минимум](http://krasimirtsonev.com/blog/article/The-bare-minimum-to-work-with-React) [**EN**], того что надо знать, чтобы начать работать с React.
+
 * [Modern React with Redux](https://www.udemy.com/react-redux/) [**EN**] – курс по основам React. Подойдёт для всех, кто только начинает своё знакомство с экосистемой React. В ходе первой части курса вы построите приложение для поиска и просмотра видео на YouTube (только React, никаких изысков), во второй части начнёте своё путешествие в страну Redux и создадите приложение с использованием Redux и Google Maps API.
 
 * [React to the Future](http://elijahmanor.com/talks/react-to-the-future/dist/#/) [**EN**] – презентация про то, чем действительно является React и, почему появление библиотеки – это большой шаг вперёд.
@@ -76,7 +78,9 @@
 
 
 ## Продвинутый Redux
-* [Обзор экосистемы Redux](https://medium.com/@denisraslov/the-redux-ecosystem-539c630ec521) — объяснение принципов сосуществования с React, React Router + паттерны работы с асинхронностью и аутентификацией.
+* [Идиоматический Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux) [**EN**] – второй курс от создателя Redux (Даниила Абрамова) про продвинутые техники использования библиотеки.
+
+* [Обзор экосистемы Redux](https://medium.com/@denisraslov/the-redux-ecosystem-539c630ec521) [**EN**] — объяснение принципов сосуществования с React, React Router + паттерны работы с асинхронностью и аутентификацией.
 
 * [Пишем всю middleware](https://medium.com/@jihdeh/creating-custom-middleware-in-react-redux-961570459ecb) [**EN**].
 
@@ -112,6 +116,8 @@
 
 
 ## От и до: уроки по созданию полноценных приложений
+* [Создаём клон твиттера](https://scotch.io/tutorials/build-a-twitter-like-search-feed-with-react-js-and-appbase-io) на React с использованием appbase в качестве бэкэнда.
+
 * [Создаём клон Trello](https://habrahabr.ru/post/308056/) [**RU**]. Описывается разработка сайта c авторизацией и функционалом популярногo. Помимо React используется Redux, PostgreSQL, Phoenix (фреймоврк для Elixir, который в свою очередь работает на Erlang VM).
 
 
@@ -126,11 +132,17 @@
 
 
 ## Инструменты
+* [Webpack 2 для самых глупых](https://www.sitepoint.com/beginners-guide-to-webpack-2-and-module-bundling/) – подробное введение в использование второй версии сборщика
+
+* [Видео курс](https://www.youtube.com/playlist?list=PLkEZWD8wbltnRp6nRR8kv97RbpcUdNawY) [**EN**] по второй версии Webpack. Расскажут, как написать базовый конфиг, работать с лоадерами и плагинами, автоматически генерировать HTML, работать с React и Babel, стилями и другими файлами + подробно про настройку Webpack dev server для удобной горячей перезагрузки.
+
 * [Собираем React приложение с помощью Webpack 2 и Babel](https://scotch.io/tutorials/setup-a-react-environment-using-webpack-and-babel) [**EN**] – руководство по настройке самых необходимых инструментов.
 
 * [Code Splitting](http://mxstbr.blog/2016/01/react-apps-with-pages/) [**EN**] в React приложении – разделение большого бандла на меньшие части для более быстрой загрузки приложения.
 
 * [Webpack + React](https://habrahabr.ru/post/308926/) [**RU**] – как уменьшить бандл в 15 раз: подборка плагинов для экстремального сжатия.
+
+* [Горячая перезагрузка всего!](https://hackernoon.com/hot-reload-all-the-things-ec0fed8ab0) [**EN**] Как использовать Hot Module Replacement в Webpack для перезагрузки фронтенда и бэкэнда в изоморфном приложении.
 
 
 ## Разное
