@@ -83,7 +83,7 @@
 
 * [Работа с AJAX запросами в React](https://daveceddia.com/ajax-requests-in-react/) [**EN**] — где и когда загружать данные
 
-* [Работа с анимациями в React](https://www.youtube.com/watch?v=npvQX53YuCs) [**EN**] с помощью ReactCSSTransitionGroup. Если вы видели приложения на реакте с невероятно крутыми переходами между страницами, то посмотрите, как за пару минут можно прикрутить нечто подобное к себе в проект.
+* [Работа с анимациями в React](https://www.youtube.com/watch?v=npvQX53YuCs) [**EN**] с помощью ReactCSSTransitionGroup. Если вы видели приложения на React с невероятно крутыми переходами между страницами, то посмотрите, как за пару минут можно прикрутить нечто подобное к себе в проект.
 
 
 ## Робкое знакомство с Redux
@@ -126,14 +126,14 @@
 ## От и до: уроки по созданию полноценных приложений
 * [Создаём клон твиттера](https://scotch.io/tutorials/build-a-twitter-like-search-feed-with-react-js-and-appbase-io) на React с использованием appbase в качестве бэкэнда.
 
-* [Создаём клон Trello](https://habrahabr.ru/post/308056/) [**RU**]. Описывается разработка сайта c авторизацией и функционалом популярногo. Помимо React используется Redux, PostgreSQL, Phoenix (фреймоврк для Elixir, который в свою очередь работает на Erlang VM).
+* [Создаём клон Trello](https://habrahabr.ru/post/308056/) [**RU**]. Описывается разработка сайта c авторизацией и функционалом популярного. Помимо React используется Redux, PostgreSQL, Phoenix (фреймворк для Elixir, который в свою очередь работает на Erlang VM).
 
 
 * Создаём медиа библиотека с помощью React, Redux и Redux-saga [**EN**]:
   * [Часть 1](https://scotch.io/tutorials/build-a-media-library-with-react-redux-and-redux-saga-part-1)
   * [Часть 2](https://scotch.io/tutorials/build-a-media-library-with-react-redux-and-redux-saga-part-2)
 
-* Cобираем с нуля изоморфное приложение – пошаговое руководство по настройке сборки приложения на React с server-side рендерингом [**RU**]:
+* Собираем с нуля изоморфное приложение – пошаговое руководство по настройке сборки приложения на React с server-side рендерингом [**RU**]:
   * [Часть 1](https://habrahabr.ru/post/309958/)
   * [Часть 2](https://habrahabr.ru/post/310284/)
   * [Часть 3](https://habrahabr.ru/post/310952/)
