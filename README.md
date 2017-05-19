@@ -38,6 +38,8 @@
 
 * [React курс для начинающих](https://www.gitbook.com/book/maxfarseer/react-course-ru/details) [**RU**] – текстовый курс по основам React на русском языке. Научит только самым базовым вещам: работе с компонентами, lifecycle хуками, формами и валидацией пропсов с помощью PropTypes.
 
+* [Объяснение принципов работы пропсов и состояний](https://medium.freecodecamp.com/react-props-state-explained-through-darth-vaders-hunt-for-the-rebels-8ee486576492) [**EN**] в React на примере Дарт Вейдера и повстанцев.
+
 * [React.js for Stupid People](http://blog.andrewray.me/reactjs-for-stupid-people/) [**EN**] – спасёт вас, если вы до сих пор ничего не поняли. Всё максимально доступно для самых чайников. Есть перевод на русский язык – [React.js для глупых людей](https://habrahabr.ru/post/249107/) [**RU**].
 
 
@@ -56,6 +58,12 @@
 
 * Курс [Advanced React and Redux](https://www.udemy.com/react-redux-tutorial/) [**EN**] расскажет про основы тестирования React компонентов, работу с аутентификацией на стороне клиента и сервера и компоненты высшего порядка.
 
+* [Основы работы с содержимым head](https://habrahabr.ru/post/311964/) [**RU**] в React-приложениях (в том числе и изоморфных) с помощью библиотеки react-helmet.
+
+* [Работа с AJAX запросами в React](https://daveceddia.com/ajax-requests-in-react/) [**EN**] — где и когда загружать данные
+
+* [Работа с анимациями в React](https://www.youtube.com/watch?v=npvQX53YuCs) [**EN**] с помощью ReactCSSTransitionGroup. Если вы видели приложения на реакте с невероятно крутыми переходами между страницами, то посмотрите, как за пару минут можно прикрутить нечто подобное к себе в проект.
+
 
 ## Робкое знакомство с Redux
 * Лучший способ ознакомиться с Redux — посмотреть [курс от самого создателя (Даниила Абрамова) на egghead.io](https://egghead.io/series/getting-started-with-redux) [**EN**] — 30 видео уроков, в которых покажут не только, как пользоваться библиотекой, но и объяснят принцип её работы (по сути, в ходе курса вы сами напишете свой мини-Redux) + в конце расскажут про связку с React с помощью компонентов из React-redux, объяснят, как создавать компоненты-контейнеры, единственная цель которых передавать данные в другие компоненты, а также, как использовать контексты при работе с React.
@@ -68,12 +76,18 @@
 
 
 ## Продвинутый Redux
+* [Обзор экосистемы Redux](https://medium.com/@denisraslov/the-redux-ecosystem-539c630ec521) — объяснение принципов сосуществования с React, React Router + паттерны работы с асинхронностью и аутентификацией.
+
 * [Пишем всю middleware](https://medium.com/@jihdeh/creating-custom-middleware-in-react-redux-961570459ecb) [**EN**].
 
 * [Асинхронный Redux](https://medium.com/@jtbennett/asynchronous-actions-in-redux-8412cf92a26f) [**EN**] – разбор библиотек для работы с асинхронными операциями в Redux.
 
+* [mergeStateToProps](https://habrahabr.ru/post/314582/) [**RU**] — возможности React Redux, о которых вы не знали (`mapDispatchToProps` на стероидах).
+
 
 ## Роутинг
+* [React router + browserHistory](https://www.youtube.com/watch?v=cdUyEou0LHg) [**EN**] – как правильно использовать в продакшене.
+
 * Напиши свой React Router, или [как работает четвёртая версия React Router изнутри](https://tylermcginnis.com/build-your-own-react-router-v4/) [**EN**] – лучший способ понять принцип работы React Router.
 
 * [Изоморфные приложения на React с React Router 4 версии](https://ebaytech.berlin/universal-web-apps-with-react-router-4-15002bb30ccb) [**EN**] – как организовать server side рендеринг приложения.
@@ -92,20 +106,38 @@
 
 * [Лучшие практики тестирования React компонентов](https://medium.com/selleo/testing-react-components-best-practices-2f77ac302d12) [**EN**].
 
+* [Видео курс от egghead.io](https://egghead.io/lessons/javascript-test-javascript-with-jest?pl=testing-javascript-with-jest-a36c4074) про тестирование React приложения с Jest.
+
+* [Руководство по использованию TDD подхода при разработке React приложений](https://www.spencerdixon.com/blog/test-driven-react-tutorial.html)
+
 
 ## От и до: уроки по созданию полноценных приложений
+* [Создаём клон Trello](https://habrahabr.ru/post/308056/) [**RU**]. Описывается разработка сайта c авторизацией и функционалом популярногo. Помимо React используется Redux, PostgreSQL, Phoenix (фреймоврк для Elixir, который в свою очередь работает на Erlang VM).
+
+
 * Создаём медиа библиотека с помощью React, Redux и Redux-saga [**EN**]:
   * [Часть 1](https://scotch.io/tutorials/build-a-media-library-with-react-redux-and-redux-saga-part-1)
   * [Часть 2](https://scotch.io/tutorials/build-a-media-library-with-react-redux-and-redux-saga-part-2)
+
+* Cобираем с нуля изоморфное приложение – пошаговое руководство по настройке сборки приложения на React с server-side рендерингом [**RU**]:
+  * [Часть 1](https://habrahabr.ru/post/309958/)
+  * [Часть 2](https://habrahabr.ru/post/310284/)
+  * [Часть 3](https://habrahabr.ru/post/310952/)
 
 
 ## Инструменты
 * [Собираем React приложение с помощью Webpack 2 и Babel](https://scotch.io/tutorials/setup-a-react-environment-using-webpack-and-babel) [**EN**] – руководство по настройке самых необходимых инструментов.
 
-* [Code Splitting](http://mxstbr.blog/2016/01/react-apps-with-pages/) в React приложении – разделение большого бандла на меньшие части для более быстрой загрузки приложения.
+* [Code Splitting](http://mxstbr.blog/2016/01/react-apps-with-pages/) [**EN**] в React приложении – разделение большого бандла на меньшие части для более быстрой загрузки приложения.
+
+* [Webpack + React](https://habrahabr.ru/post/308926/) [**RU**] – как уменьшить бандл в 15 раз: подборка плагинов для экстремального сжатия.
 
 
 ## Разное
 * [Подборка 15 вопросов с собеседования](http://www.kanby.ru/voprosyi-pro-react-na-sobesedovanii.html) [**RU**] для React-разработчика.
 
-* [Многофакторная аутентификация и React](https://scotch.io/tutorials/multifactor-authentication-in-your-react-apps) [**EN**].
+* [Подборка интересных open source проектов](https://www.reddit.com/r/reactjs/comments/496db2/large_open_source_reactredux_projects/) [**EN**] сделанных на React. На их примере можно посмотреть, как правильно организовать код в своих проектах и подглядеть пару интересных инструментов для сборки.
+
+* [Awesome React Talks](https://github.com/tiaanduplessis/awesome-react-talks) [**EN**] – подборка лучший докладов с конференций, посвященных React, всё разделено по годам.
+
+* [React за 30 минут](https://www.youtube.com/watch?v=_MAD4Oly9yg) – создайте свой клон библиотеки и посмотрите, как всё устроено изнутри.
