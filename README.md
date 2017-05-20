@@ -81,7 +81,7 @@
 
 * [Основы работы с содержимым head](https://habrahabr.ru/post/311964/) [**RU**] в React-приложениях (в том числе и изоморфных) с помощью библиотеки react-helmet.
 
-* [Работа с AJAX запросами в React](https://daveceddia.com/ajax-requests-in-react/) [**EN**] — где и когда загружать данные
+* [Работа с AJAX запросами в React](https://daveceddia.com/ajax-requests-in-react/) [**EN**] — где и когда загружать данные.
 
 * [Работа с анимациями в React](https://www.youtube.com/watch?v=npvQX53YuCs) [**EN**] с помощью ReactCSSTransitionGroup. Если вы видели приложения на React с невероятно крутыми переходами между страницами, то посмотрите, как за пару минут можно прикрутить нечто подобное к себе в проект.
 
@@ -113,7 +113,7 @@
 
 * Напиши свой React Router, или [как работает четвёртая версия React Router изнутри](https://tylermcginnis.com/build-your-own-react-router-v4/) [**EN**] – лучший способ понять принцип работы React Router.
 
-* [Изоморфные приложения на React с React Router 4 версии](https://ebaytech.berlin/universal-web-apps-with-react-router-4-15002bb30ccb) [**EN**] – как организовать server side рендеринг приложения.
+* [Изоморфные приложения на React с React Router 4 версии](https://ebaytech.berlin/universal-web-apps-with-react-router-4-15002bb30ccb) [**EN**] – как организовать server-side рендеринг приложения.
 
 * React Router не всегда идеальное решение для организации роутинга. Facebook, например, вообще не использует его в своих проектах. [Обзор альтернатив React Router](https://auth0.com/blog/react-router-alternatives/).
 
@@ -124,12 +124,11 @@
 * [Как избежать излишней сложности состояния приложения](https://habrahabr.ru/post/316070/) [**RU**] – руководство по правильной организации Redux-стора в больших приложениях.
 
 ## От и до: уроки по созданию полноценных приложений
-* [Создаём клон твиттера](https://scotch.io/tutorials/build-a-twitter-like-search-feed-with-react-js-and-appbase-io) на React с использованием appbase в качестве бэкэнда.
+* [Создаём клон твиттера](https://scotch.io/tutorials/build-a-twitter-like-search-feed-with-react-js-and-appbase-io) на React с использованием appbase в качестве бэкенда.
 
 * [Создаём клон Trello](https://habrahabr.ru/post/308056/) [**RU**]. Описывается разработка сайта c авторизацией и функционалом популярного. Помимо React используется Redux, PostgreSQL, Phoenix (фреймворк для Elixir, который в свою очередь работает на Erlang VM).
 
-
-* Создаём медиа библиотека с помощью React, Redux и Redux-saga [**EN**]:
+* Создаём медиа-библиотеку с помощью React, Redux и Redux-saga [**EN**]:
   * [Часть 1](https://scotch.io/tutorials/build-a-media-library-with-react-redux-and-redux-saga-part-1)
   * [Часть 2](https://scotch.io/tutorials/build-a-media-library-with-react-redux-and-redux-saga-part-2)
 
@@ -150,7 +149,7 @@
 
 
 ## Инструменты
-* [Webpack 2 для самых глупых](https://www.sitepoint.com/beginners-guide-to-webpack-2-and-module-bundling/) – подробное введение в использование второй версии сборщика
+* [Webpack 2 для самых глупых](https://www.sitepoint.com/beginners-guide-to-webpack-2-and-module-bundling/) [**EN**] – подробное введение в использование второй версии сборщика.
 
 * [Видео курс](https://www.youtube.com/playlist?list=PLkEZWD8wbltnRp6nRR8kv97RbpcUdNawY) [**EN**] по второй версии Webpack. Расскажут, как написать базовый конфиг, работать с лоадерами и плагинами, автоматически генерировать HTML, работать с React и Babel, стилями и другими файлами + подробно про настройку Webpack dev server для удобной горячей перезагрузки.
 
@@ -160,7 +159,7 @@
 
 * [Webpack + React](https://habrahabr.ru/post/308926/) [**RU**] – как уменьшить бандл в 15 раз: подборка плагинов для экстремального сжатия.
 
-* [Горячая перезагрузка всего!](https://hackernoon.com/hot-reload-all-the-things-ec0fed8ab0) [**EN**] Как использовать Hot Module Replacement в Webpack для перезагрузки фронтенда и бэкэнда в изоморфном приложении.
+* [Горячая перезагрузка всего!](https://hackernoon.com/hot-reload-all-the-things-ec0fed8ab0) [**EN**] Как использовать Hot Module Replacement в Webpack для перезагрузки фронтенда и бэкенда в изоморфном приложении.
 
 
 ## Разное
