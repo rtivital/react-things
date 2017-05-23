@@ -1,4 +1,4 @@
-# React Things
+﻿# React Things
 Коллекция материалов для изучения ES2015, React, Redux, Webpack, Babel и всего остального.
 
 Думаешь, что подборка не полная? Присылай Pull Request с недостающими материалами!
@@ -49,7 +49,7 @@
 
 
 ## React: Основы основ
-* [Статья из официальной документации Thinking in React](https://facebook.github.io/react/docs/thinking-in-react.html) [**EN**] про идеологию библиотеки, поможет понять, основные идеи лежащие в основе React.
+* [Статья из официальной документации Thinking in React](https://habrahabr.ru/post/319134/) [**RU**] про идеологию библиотеки, поможет понять, основные идеи лежащие в основе React.
 
 * [Абсолютный минимум](http://krasimirtsonev.com/blog/article/The-bare-minimum-to-work-with-React) [**EN**], того что надо знать, чтобы начать работать с React.
 
