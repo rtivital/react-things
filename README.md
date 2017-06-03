@@ -115,7 +115,9 @@
 
 * [Изоморфные приложения на React с React Router 4 версии](https://ebaytech.berlin/universal-web-apps-with-react-router-4-15002bb30ccb) [**EN**] – как организовать server-side рендеринг приложения.
 
-* React Router не всегда идеальное решение для организации роутинга. Facebook, например, вообще не использует его в своих проектах. [Обзор альтернатив React Router](https://auth0.com/blog/react-router-alternatives/).
+* React Router не всегда идеальное решение для организации роутинга. Facebook, например, вообще не использует его в своих проектах. [Обзор альтернатив React Router](https://auth0.com/blog/react-router-alternatives/) [**EN**].
+
+* [Как написать свой роутер](https://hackernoon.com/routing-in-react-the-uncomplicated-way-b2c5ffaee997) [**EN**] – руководство по созданию собственного роутера, работающего с server-side рендерингом.
 
 
 ## Архитектура приложения
