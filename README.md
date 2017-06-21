@@ -163,6 +163,8 @@
 
 * [Горячая перезагрузка всего!](https://hackernoon.com/hot-reload-all-the-things-ec0fed8ab0) [**EN**] Как использовать Hot Module Replacement в Webpack для перезагрузки фронтенда и бэкенда в изоморфном приложении.
 
+* [Руководство по настройке редактора кода Atom](https://medium.com/productivity-freak/my-atom-editor-setup-for-js-react-9726cd69ad20) [**EN**] для наиболее продуктивной работы с React приложениями.
+
 
 ## Разное
 * [Подборка 15 вопросов с собеседования](http://www.kanby.ru/voprosyi-pro-react-na-sobesedovanii.html) [**RU**] для React-разработчика.
