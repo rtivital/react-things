@@ -125,6 +125,8 @@
 
 * [Как избежать излишней сложности состояния приложения](https://habrahabr.ru/post/316070/) [**RU**] – руководство по правильной организации Redux-стора в больших приложениях.
 
+* [Пять советов по работе с Redux в больших приложениях](https://techblog.appnexus.com/five-tips-for-working-with-redux-in-large-applications-89452af4fdcb) [**EN**] – продвинутое использование селекторов, техники разделения состояния, переиспользование редюсеров.
+
 ## От и до: уроки по созданию полноценных приложений
 * [Создаём клон твиттера](https://scotch.io/tutorials/build-a-twitter-like-search-feed-with-react-js-and-appbase-io) на React с использованием appbase в качестве бэкенда.
 
