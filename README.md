@@ -178,3 +178,5 @@
 * [React за 30 минут](https://www.youtube.com/watch?v=_MAD4Oly9yg) [**EN**] – создайте свой клон библиотеки и посмотрите, как всё устроено изнутри.
 
 * [Основы работы с recompose](https://www.youtube.com/watch?v=SQtrgiLy3Fo) [**EN**] – библиотекой для расширения возможностей функциональных компонентов и их оптимизации.
+
+* [Шпаргалка по принципам работы с экосистемой React + Redux](https://github.com/uanders/react-redux-cheatsheet) [**EN**] в виде диаграммы
