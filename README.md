@@ -119,6 +119,8 @@
 
 * [Как написать свой роутер](https://hackernoon.com/routing-in-react-the-uncomplicated-way-b2c5ffaee997) [**EN**] – руководство по созданию собственного роутера, работающего с server-side рендерингом.
 
+* [Анимированные переходы между страницами + React Router 4](https://hackernoon.com/animated-page-transitions-with-react-router-4-reacttransitiongroup-and-animated-1ca17bd97a1a) [**EN**] – введение в использование ReactTransitionGroup.
+
 
 ## Архитектура приложения
 * [Как правильно организовать архитектуру большого приложения на React и Redux](https://www.sitepoint.com/organize-large-react-application/) [**EN**].
@@ -179,4 +181,4 @@
 
 * [Основы работы с recompose](https://www.youtube.com/watch?v=SQtrgiLy3Fo) [**EN**] – библиотекой для расширения возможностей функциональных компонентов и их оптимизации.
 
-* [Шпаргалка по принципам работы с экосистемой React + Redux](https://github.com/uanders/react-redux-cheatsheet) [**EN**] в виде диаграммы
+* [Шпаргалка по принципам работы с экосистемой React + Redux](https://github.com/uanders/react-redux-cheatsheet) [**EN**] в виде диаграммы.
