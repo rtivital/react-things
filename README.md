@@ -151,9 +151,9 @@
 
 * [Лучшие практики тестирования React компонентов](https://medium.com/selleo/testing-react-components-best-practices-2f77ac302d12) [**EN**].
 
-* [Видео курс от egghead.io](https://egghead.io/lessons/javascript-test-javascript-with-jest?pl=testing-javascript-with-jest-a36c4074) про тестирование React приложения с Jest.
+* [Видео курс от egghead.io](https://egghead.io/lessons/javascript-test-javascript-with-jest?pl=testing-javascript-with-jest-a36c4074) [**EN**] про тестирование React приложения с Jest.
 
-* [Руководство по использованию TDD подхода при разработке React приложений](https://www.spencerdixon.com/blog/test-driven-react-tutorial.html)
+* [Руководство по использованию TDD подхода при разработке React приложений](https://www.spencerdixon.com/blog/test-driven-react-tutorial.html) [**EN**]
 
 
 ## Инструменты
