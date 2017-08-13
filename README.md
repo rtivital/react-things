@@ -115,6 +115,8 @@
 
 * [React Router 4](https://habrahabr.ru/post/329996/) [**RU**] – простое объяснение отличий от предыдущих весрсий.
 
+* [Всё о React Router 4](https://css-tricks.com/react-router-4/) [**EN**] – подродно о новых идеях заложенных в новой версии библиотеки и почему всё так кардинально изменилось.
+
 * Напиши свой React Router, или [как работает четвёртая версия React Router изнутри](https://tylermcginnis.com/build-your-own-react-router-v4/) [**EN**] – лучший способ понять принцип работы React Router.
 
 * [Изоморфные приложения на React с React Router 4 версии](https://ebaytech.berlin/universal-web-apps-with-react-router-4-15002bb30ccb) [**EN**] – как организовать server-side рендеринг приложения.
