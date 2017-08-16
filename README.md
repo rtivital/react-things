@@ -63,6 +63,8 @@
 
 * [React.js for Stupid People](http://blog.andrewray.me/reactjs-for-stupid-people/) [**EN**] – спасёт вас, если вы до сих пор ничего не поняли. Всё максимально доступно для самых чайников. Есть перевод на русский язык – [React.js для глупых людей](https://habrahabr.ru/post/249107/) [**RU**].
 
+* [Подборка интерактивных примеров](https://edgecoders.com/learning-react-js-is-easier-than-you-think-fbd6dc4d935a) [**EN**], которые помогут разобраться в базовых идеях, лежащих в основе библиотеки.
+
 
 ## Ныряем в React с головой
 * [React Lifecycle Methods – how and when to use them](https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1) [**EN**] – всё про жизненный цикл компонентов в React: подробно о том, как работает каждый метод + разбор ситуаций, в которых может понадобиться каждый хук.
