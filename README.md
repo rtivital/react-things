@@ -116,7 +116,7 @@
 
 
 ## Роутинг
-* [React Router 4](https://habrahabr.ru/post/329996/) [**RU**] – простое объяснение отличий от предыдущих весрсий.
+* [React Router 4](https://habrahabr.ru/post/329996/) [**RU**] – простое объяснение отличий от предыдущих версий.
 
 * [React router + browserHistory](https://www.youtube.com/watch?v=cdUyEou0LHg) [**EN**] – как правильно использовать в продакшене.
 
