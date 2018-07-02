@@ -70,7 +70,7 @@
 ## Ныряем в React с головой
 * [PureComponent в React](https://habrahabr.ru/company/redmadrobot/blog/318222/) [**RU**] – как и зачем применять, разбор отличий от Component.
 
-* [Основы производительности React-приложений](http://blog.csssr.ru/2016/12/07/react-perfomance/) [**RU**] – как правильно работать с `shouldComponentUpdate`.
+* [Основы производительности React-приложений](http://blog.csssr.ru/2016/12/07/react-perfomance) [**RU**] – как правильно работать с `shouldComponentUpdate`.
 
 * [Основы работы с содержимым head](https://habrahabr.ru/post/311964/) [**RU**] в React-приложениях (в том числе и изоморфных) с помощью библиотеки react-helmet.
 
