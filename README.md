@@ -110,7 +110,7 @@
 
 * [Обзор экосистемы Redux](https://medium.com/@denisraslov/the-redux-ecosystem-539c630ec521) [**EN**] — объяснение принципов сосуществования с React, React Router + паттерны работы с асинхронностью и аутентификацией.
 
-* [Пишем всю middleware](https://medium.com/@jihdeh/creating-custom-middleware-in-react-redux-961570459ecb) [**EN**].
+* [Пишем свой middleware](https://medium.com/@jihdeh/creating-custom-middleware-in-react-redux-961570459ecb) [**EN**].
 
 * [Асинхронный Redux](https://medium.com/@jtbennett/asynchronous-actions-in-redux-8412cf92a26f) [**EN**] – разбор библиотек для работы с асинхронными операциями в Redux.
 
