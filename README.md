@@ -170,7 +170,7 @@
 ## Инструменты
 * [Webpack + React](https://habrahabr.ru/post/308926/) [**RU**] – как уменьшить бандл в 15 раз: подборка плагинов для экстремального сжатия.
 
-* [Webpack 2 для самых глупых](https://www.sitepoint.com/beginners-guide-to-webpack-2-and-module-bundling/) [**EN**] – подробное введение в использование второй версии сборщика.
+* [Webpack 4 для начинающих](https://www.sitepoint.com/beginners-guide-webpack-module-bundling/) [**EN**] – подробное введение в использование четвертой версии сборщика.
 
 * [Видео курс](https://www.youtube.com/playlist?list=PLkEZWD8wbltnRp6nRR8kv97RbpcUdNawY) [**EN**] по второй версии Webpack. Расскажут, как написать базовый конфиг, работать с лоадерами и плагинами, автоматически генерировать HTML, работать с React и Babel, стилями и другими файлами + подробно про настройку Webpack dev server для удобной горячей перезагрузки.
 
