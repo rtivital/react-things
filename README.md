@@ -156,6 +156,7 @@
   * [Часть 1](https://scotch.io/tutorials/build-a-media-library-with-react-redux-and-redux-saga-part-1)
   * [Часть 2](https://scotch.io/tutorials/build-a-media-library-with-react-redux-and-redux-saga-part-2)
 
+* [Создаём приложение для изучения React с использованием API Hacker News](https://leanpub.com/the-road-to-learn-react-russian) [**RU**]
 
 ## Тестирование
 * [Тестирование компонентов в React](https://medium.freecodecamp.com/the-right-way-to-test-react-components-548a4736ab22) [**EN**]: как сделать это правильно и что нужно тестировать в первую очередь.
